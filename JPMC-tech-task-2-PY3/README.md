@@ -7,7 +7,7 @@
 <p align="center"> 
 	<b><a href="#task">Task Overview</a></b>
 	|
-	<b><a href="#installation">Installation Instructions TEST</a></b>
+	<b><a href="#installation">Installation Instructions</a></b>
 	| 
 	<b><a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/88AisH7iuw3L5N5ig" target="_blank">Link to Module 2</a></b>
 
