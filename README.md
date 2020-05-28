@@ -1,4 +1,5 @@
 # JP Morgan Chase Software Engineering Virtual Experience
+![certificate](JPMC_certificate.jpg)
 ### The following was the prompt of the tasks
 Welcome to the Software Engineering Virtual Experience
 You’re going to assist with some development of an alternative way to visualize and analyze share price data for our traders – this will alert them of potential trading opportunities.
@@ -20,3 +21,4 @@ In order to do this, you’ll need to set up your system so you can interface wi
 The visualization of charts and data analysis our trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective. You’ll learn how to implement this to facilitate the trader’s requested changes and deliver actionable insights.
 
 You’ll have to gain an understanding of the user requirements and then build something that meets those requirements.
+
