@@ -1,6 +1,6 @@
 # JP Morgan Chase Software Engineering Virtual Experience
 ![certificate](JPMC_certificate.jpg)
-### The following was the prompt of the tasks
+### Overview
 Welcome to the Software Engineering Virtual Experience
 You’re going to assist with some development of an alternative way to visualize and analyze share price data for our traders – this will alert them of potential trading opportunities.
 
